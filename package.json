@@ -1,0 +1,9 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ember-app": "^0.0.2"
+  }
+}
